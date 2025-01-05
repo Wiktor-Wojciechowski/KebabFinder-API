@@ -46,7 +46,6 @@ const router = createBrowserRouter(
         path='/changepassword'
         element={<ProtectedRoute><ChangePasswordPage /></ProtectedRoute>}
       >
-
       </Route>
       <Route
         path='*'
