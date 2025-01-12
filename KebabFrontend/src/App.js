@@ -53,7 +53,8 @@ const router = createBrowserRouter(
       />
     </Route>
     </>
-  )
+  ),
+  { basename: "/KebabFinder-API" }
 );
 
 function App() {
