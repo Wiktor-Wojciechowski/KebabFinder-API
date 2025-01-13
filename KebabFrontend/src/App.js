@@ -5,7 +5,8 @@ import {
   createBrowserRouter,
   createRoutesFromElements,
   RouterProvider,
-  Route
+  Route,
+  createHashRouter
 } from "react-router-dom";
 
 import LogInPage from './Pages/LogInPage';
@@ -18,7 +19,7 @@ import ChangePasswordPage from './Pages/ChangePasswordPage';
 import SaucesPage from './Pages/SaucesPage';
 import MeatsPage from './Pages/MeatsPage';
 
-const router = createBrowserRouter(
+const router = createHashRouter(
   createRoutesFromElements(
     <>
     <Route 
@@ -54,7 +55,7 @@ const router = createBrowserRouter(
     </Route>
     </>
   ),
-  { basename: "/KebabFinder-API" }
+
 );
 
 function App() {
