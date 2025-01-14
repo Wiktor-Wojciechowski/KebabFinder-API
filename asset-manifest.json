@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/KebabFinder-API/static/css/main.f4da7686.css",
-    "main.js": "/KebabFinder-API/static/js/main.2d5b5ed9.js",
+    "main.css": "/KebabFinder-API/static/css/main.acbe4044.css",
+    "main.js": "/KebabFinder-API/static/js/main.685af790.js",
     "static/js/453.f79704ba.chunk.js": "/KebabFinder-API/static/js/453.f79704ba.chunk.js",
     "index.html": "/KebabFinder-API/index.html",
-    "main.f4da7686.css.map": "/KebabFinder-API/static/css/main.f4da7686.css.map",
-    "main.2d5b5ed9.js.map": "/KebabFinder-API/static/js/main.2d5b5ed9.js.map",
+    "main.acbe4044.css.map": "/KebabFinder-API/static/css/main.acbe4044.css.map",
+    "main.685af790.js.map": "/KebabFinder-API/static/js/main.685af790.js.map",
     "453.f79704ba.chunk.js.map": "/KebabFinder-API/static/js/453.f79704ba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f4da7686.css",
-    "static/js/main.2d5b5ed9.js"
+    "static/css/main.acbe4044.css",
+    "static/js/main.685af790.js"
   ]
 }
