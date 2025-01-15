@@ -92,7 +92,7 @@ export default function MeatsPage() {
 
     return(
         <div className="flex h-screen overflow-hidden">
-            <div className="flex flex-col w-full">
+            <div className="flex flex-col w-full overflow-y-auto">
             <h1 className="text-2xl font-semibold mt-6">Meats</h1>
             <div className="p-4 sm:w-1/3 w-full mx-auto">
                 <button 
